@@ -1,0 +1,17 @@
+body{
+
+  background:white;
+
+}
+
+h3{
+
+ font-size: 30px;
+ color: rgb(4, 126, 167);
+
+}
+.btn-primary:hover{
+
+background-color:rgb(235, 49, 86);
+
+}
